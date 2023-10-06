@@ -9,7 +9,7 @@ Ciclo de um component em Angular
 - EditorConfig
 
 ### Angular
-- npm install -g @angular/cli@
+- npm install -g @angular/cli
 
 ## Links Úteis
 - Documentação Angular: https://angular.io/docs
