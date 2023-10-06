@@ -10,6 +10,7 @@ Ciclo de um component em Angular
 
 ### Angular
 - npm install -g @angular/cli
+- npm install -g @angular/cli@(coloque a versao aqui)
 
 ## Links Úteis
 - Documentação Angular: https://angular.io/docs
