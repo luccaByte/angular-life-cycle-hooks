@@ -12,6 +12,6 @@ Ciclo de um component em Angular
 - npm install -g @angular/cli
 - npm install -g @angular/cli@(coloque a versao aqui)
 
-## Links Úteis
+### Links Úteis
 - Documentação Angular: https://angular.io/docs
   
